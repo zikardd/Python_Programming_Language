@@ -1,5 +1,5 @@
 '''
-Ini merupakan materi pertama 
+Ini merupakan materi kedua 
 '''
 # Seperti biasa, menampilkan teks halo dunia
 a = 'hello world' 
