@@ -1,5 +1,5 @@
 '''
-Ini merupakan materi keempat
+Ini merupakan materi kelima
 '''
 ## Tipe data standar
 # Angka bulat satuan (Integer)
