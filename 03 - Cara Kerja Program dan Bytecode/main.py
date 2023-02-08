@@ -1,5 +1,5 @@
 '''
-Ini merupakan materi pertama
+Ini merupakan materi ketiga
 '''
 
 # Inisialisasi variabel 
